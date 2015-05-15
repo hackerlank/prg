@@ -39,6 +39,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Cola.cs" />
+    <Compile Include="Conjunto.cs" />
+    <Compile Include="DiccionarioMultiple.cs" />
+    <Compile Include="DiccionarioSimple.cs" />
+    <Compile Include="Pila.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

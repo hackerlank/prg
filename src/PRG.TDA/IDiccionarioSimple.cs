@@ -11,7 +11,7 @@ namespace PRG.TDA
     /// ingresa a la estructura asociado a una clave, y estas claves existen 
     /// siempre que tengan valor asociado y son unicas
     /// </summary>
-    public interface IDictionarioSimple
+    public interface IDiccionarioSimple
     {
         /// <summary>
         /// Inicializa la estructura

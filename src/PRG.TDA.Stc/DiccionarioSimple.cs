@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PRG.TDA.Stc
 {
-    public class DiccionarioSimple : IDictionarioSimple
+    public class DiccionarioSimple : IDiccionarioSimple
     {
         internal class ClaveValor
         {
