@@ -53,6 +53,7 @@
   <ItemGroup>
     <Compile Include="ColaTests.cs" />
     <Compile Include="ConjuntoTests.cs" />
+    <Compile Include="DiccionarioSimpleTests.cs" />
     <Compile Include="PilaTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
