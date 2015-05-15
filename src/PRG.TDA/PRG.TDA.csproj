@@ -39,6 +39,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ICola.cs" />
+    <Compile Include="IColaPrioridad.cs" />
+    <Compile Include="IConjunto.cs" />
+    <Compile Include="IDiccionarioMultiple.cs" />
+    <Compile Include="IDictionarioSimple.cs" />
+    <Compile Include="IPila.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
